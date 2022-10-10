@@ -1,0 +1,34 @@
+{
+  "SchoolName": "Izaan School of Eng",
+  "StudentsRecords": [
+    {
+      "Name"  : "Afif",
+      "ID" : "QAAEB2201101",
+      "Course": "QAAE",
+      "DOB": "1980/04/22",
+      "Eamil": "afif@gmail.com",
+      "Age": "42",
+      "IsHeKeepingUpWithClass": true,
+      "Grade": null
+
+    },
+    {
+      "Name"  : "asad",
+      "ID" : "QAAEB2201102",
+      "Course": "QAAE",
+      "DOB": "1980/04/22",
+      "Eamil": "asad@gmail.com",
+      "Age": "forty two years old",
+      "IsHeKeepingUpWithClass": true,
+      "Grade": null,
+      "Score": 0
+
+
+    }
+  ],
+  "ListOfCoursesAtIzaanSchool": [
+    "QAAE",
+    "DevOps",
+    "DevOps For Fresher"
+  ]
+}

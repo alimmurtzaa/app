@@ -1,0 +1,8 @@
+List of work for today
+List of work for today
+List of files before delete action
+h1.png
+h2.png
+touch
+List of files after delete action
+List of work for today
